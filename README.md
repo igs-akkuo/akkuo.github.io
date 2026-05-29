@@ -12,6 +12,8 @@
 - ✅ PauseScreen 暫停面板（遮罩、關卡資訊、音效/音樂開關、繼續/重新開始/返回主選單）
 - ✅ 共用 SettingsPanel 元件（音效+音樂 toggle，即時反映）
 - ✅ GameState.Title 新增，遊戲啟動先顯示標題畫面
+- ✅ HUD 膠囊縮小（高度 40px、字體 13/18px）+ 牌型收集欄縮小（格子 36px）
+- ✅ 牌面區域上移（boardAreaTop 300→210），手機上牌面更大
 - ✅ 牌面圖案精細化（萬子彩色數字、條子竹棍、筒子同心圓、花牌圖形）
 - ✅ AutoPlay 重開時不改 localStorage（避免關卡被重設）
 - ✅ 落單牌問題修正 — ensureAllPaired 強制確保所有圖案偶數張
